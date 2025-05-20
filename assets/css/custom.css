@@ -1,0 +1,19 @@
+#site-footer.background{
+        background: #583e3d;
+}
+
+header .site-logo img{
+   max-width: 300px;
+    max-height: unset !important;
+}
+
+ body i.slick-arrow {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .cust-btn{
+            margin: 0 auto;
+    display: table;
+    margin-top: 50px;
+  }
