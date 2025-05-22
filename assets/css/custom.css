@@ -17,3 +17,7 @@ header .site-logo img{
     display: table;
     margin-top: 50px;
   }
+
+  .loader{
+        width: 300px !important;
+  }
